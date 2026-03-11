@@ -7,11 +7,13 @@ Python
 pyTelegramBotAPI
 Google Sheets API
 Flask
+
 ▶️ Посмотреть как работает на Replit
 [**Нажмите сюда**](https://replit.com/@pelmeng/Kolya-Telegram-Bot)
 
 📒 Примечание:
 Бот работает непрерывно благодаря UptimeRobot.
+
 ⚡ Особенности:
 Работает на Python 3
 Отправляет приветственное сообщение пользователю
