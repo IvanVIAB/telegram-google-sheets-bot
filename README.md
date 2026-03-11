@@ -3,9 +3,13 @@
 Telegram-бот, написанный на Python, который собирает заявки пользователей и сохраняет их в Google Sheets.
 
 🛠️ Стек технологий
+
 Python
+
 pyTelegramBotAPI
+
 Google Sheets API
+
 Flask
 
 ▶️ Посмотреть как работает на Replit
