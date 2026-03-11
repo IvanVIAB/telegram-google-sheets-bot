@@ -1,18 +1,18 @@
-## Telegram Google Sheets Bot
-Telegram bot written in Python that collects user requests and saves them to Google Sheets.
+🤖 Telegram бот с Google Sheets
 
-## 🛠️Tech stack
-- Python
-- pyTelegramBotAPI
-- Google Sheets API
-- Flask
-## Check out how it works on Replit
-[**Click here**](https://replit.com/@pelmeng/Kolya-Telegram-Bot)
+Telegram-бот, написанный на Python, который собирает заявки пользователей и сохраняет их в Google Sheets.
 
-## 📒Note
-The bot operates via UptimeRobot.
+🛠️ Стек технологий
+Python
+pyTelegramBotAPI
+Google Sheets API
+Flask
+▶️ Посмотреть как работает на Replit
+[**Нажмите сюда**](https://replit.com/@pelmeng/Kolya-Telegram-Bot)
 
-## ⚡ Peculiarities
--It works with Python 3. 
--Sends a welcome message to the user. 
--Simple logic and easily modifiable.
+📒 Примечание:
+Бот работает непрерывно благодаря UptimeRobot.
+⚡ Особенности:
+Работает на Python 3
+Отправляет приветственное сообщение пользователю
+Простая логика и легко модифицируется
